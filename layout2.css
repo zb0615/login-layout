@@ -1,0 +1,135 @@
+body {
+    margin:0px;
+}
+
+input, div {
+    box-sizing:border-box;
+    border-radius :5px;
+}
+.wrap {
+    width:800px;
+    margin:auto;
+    left:0;
+    right:0;
+    text-align:left;
+    font-size:24px;
+    font-weight:bold;
+    font-family: fantasy;
+    
+    
+}
+
+.title {
+    width:100%;
+    height:100px;
+    text-align:left;
+    font-size:56px;
+    
+}
+
+.enter-email {
+    margin-top:10px;
+    width:100%;
+    height:100px;
+    text-align:left;
+    clear:both;
+    float:left;
+    
+}
+
+.input-email {
+    border:1px solid black;
+    width:100%;
+    height:40px;
+    margin-top:20px;
+    font-size:20px;
+    padding-left:15px;
+    font-family:fantasy;
+    
+}
+
+.firstname {
+    float:left;
+    font-size:24px;
+    width:50%;
+    padding-top:20px;
+}
+
+.lastname {
+    float:left;
+    
+}
+
+.enter-name {
+    border : 1px solid black;
+    box-sizing: border-box;
+    width:90%;
+    height:40px;
+    margin-top:20px;
+    border-radius :5px;
+}
+
+.last-name {
+    border : 1px solid black;
+    box-sizing: border-box;
+    width:100%;
+    height:40px;
+    margin-top:20px;
+    
+
+}
+
+
+
+.massage {
+    font-size:24px;
+    text-align: left;
+    clear:both;
+    padding-top:20px;
+}
+
+.input-message {
+    border:1px solid black;
+    width:100%;
+    height:200px;
+    margin-top:20px;
+    
+}
+
+.check {
+    width:15px;
+    height:15px;
+    float:left;
+    position:relative;
+    top:8px;
+    
+}
+
+.submit {
+    float:right;
+    width:200px;
+    height:45px;
+    position:relative;
+    top:-35px;
+    background-color:darkorange;
+    color:white;
+    font-size:24px;
+    border:none;
+    
+}
+
+
+.secondname {
+    width:50%;
+    float:right;
+    margin-top:20px;
+}
+
+
+
+.background-wrap {
+    background-color:gray;
+    padding:30px;
+}
+
+
